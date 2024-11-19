@@ -60,3 +60,15 @@ Scikit-learn: For preprocessing and analysis.
 2. Promote online backup and tech support to reduce churn.
 3. Reassess billing systems to reduce the reliance on electronic check payments.
 4. Focus retention strategies on new customers during the first 12 months.
+
+# Files in the Repository
+
+Telco_Customer_Churn_Analysis.ipynb: The main project notebook.
+Telco_customer_churn.csv: The dataset used in the project.
+Telco_Customer_Churn.report: The main project report
+
+# Acknowledgments
+Special thanks to the open-source dataset and tools that made this project possible.
+
+Owner Name: Kusum
+Github: ML252Kusum

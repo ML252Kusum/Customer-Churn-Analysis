@@ -64,11 +64,15 @@ Scikit-learn: For preprocessing and analysis.
 # Files in the Repository
 
 Telco_Customer_Churn_Analysis.ipynb: The main project notebook.
+
 Telco_customer_churn.csv: The dataset used in the project.
+
 Telco_Customer_Churn.report: The main project report
 
 # Acknowledgments
+
 Special thanks to the open-source dataset and tools that made this project possible.
 
 Owner Name: Kusum
+
 Github: ML252Kusum
